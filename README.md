@@ -1,7 +1,7 @@
 
 Appium Project
 ==========
-## Testing a Mobile App Login & Registration using Appium
+## Testing a Mobile App Login & Registration using Appium.
 
 ## Objective
 
