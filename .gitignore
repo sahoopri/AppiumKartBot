@@ -4,3 +4,4 @@
 /target/
 /lib
 *.apk
+.DS_Store
