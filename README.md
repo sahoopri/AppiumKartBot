@@ -1,7 +1,7 @@
 
 Appium Project
 ==========
-## Testing Flipkart Mobile App using Appium
+## Testing a Mobile App Login & Registration using Appium
 
 ## Objective
 
@@ -17,10 +17,10 @@ This java project has been created using **IntelliJ IDea 13 Community Edition**.
 ## Steps:
 
 - **Appium Set up** - Before running the project you need to download and install Appium. Once this this done, do the android SDK set up as mentioned below.
--- Install XCode
--- Install NodeJS : [brew install node]
--- Install Android Studio 
--- Download and Install Appium Server & Client 
+* Install XCode
+* Install NodeJS : [brew install node]
+* Install Android Studio 
+* Download and Install Appium Server & Client 
 [npm install -g appium-doctor --ios or --android ] depending on which platform
 [npm install -g appium ]
 [npm install webdriverio ] or [npm install -g --save webdriverio] 
@@ -29,26 +29,28 @@ This java project has been created using **IntelliJ IDea 13 Community Edition**.
 
 - **Launch Appium Server** and start the emulator accordingly.
 Appium server by default starts at port no : 4723 
+
 To start the server use:
+
 [appium] or [appium -p <portno>] -p is to change the port no. 
 
-or 
+Or 
 
 Click the **Start Server** button inside the Appium server desktop client.
 
 - **Clone this repository**  [git clone <Ripo URL>]
 
 - **Open the solution**
--- Use IntelliJ IDEA
+* Use IntelliJ IDEA
 
 - **Rebuild**     
--- Build the test
+* Build the test
 
 - **Run the test**  
--- Use IntelliJ IDEA
--- Build the test
--- Make sure a device/emulator is connected 
--- Run the server, then Run the test.
+* Use IntelliJ IDEA
+* Build the test
+* Make sure a device/emulator is connected 
+* Run the server, then Run the test.
 
 
 
